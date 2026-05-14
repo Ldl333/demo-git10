@@ -3,12 +3,14 @@ package cn.hnzj.Ldl;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Randomtest {
+public class Randomtest 
 
-    //111
+
+{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
+        System.out.println("Hellw");
         System.out.print("请输入要猜的数字：");
         Random r = new Random();
 
