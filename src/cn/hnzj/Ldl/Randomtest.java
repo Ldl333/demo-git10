@@ -10,7 +10,7 @@ public class Randomtest
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-        System.out.println("Hellw");
+        System.out.println("Hello");
         System.out.print("请输入要猜的数字：");
         Random r = new Random();
 
