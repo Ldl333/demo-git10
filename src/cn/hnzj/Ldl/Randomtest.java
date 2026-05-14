@@ -18,7 +18,7 @@ public class Randomtest
         while(true){
             int a = sc.nextInt();
             if(a>b){
-                System.out.println("偏大了");
+                System.out.println("篇中了");
             }
            if (a<b){
                System.out.println("偏小了");
